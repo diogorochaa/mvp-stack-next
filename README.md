@@ -65,7 +65,7 @@ Before starting :checkered_flag:, you need to have [Git](https://git-scm.com) an
 
 ```bash
 # Clone this project
-$ git clone https://github.com/DiogoROcha10/mvp-stack-next-js
+$ git clone https://github.com/DiogoRocha10/mvp-stack-next-js
 
 # Access
 $ cd mvp-stack-next-js
@@ -83,7 +83,7 @@ $ yarn dev
 
 This project is under license from MIT. For more details, see the [LICENSE](LICENSE.md) file.
 
-Made with :heart: by <a href="https://github.com/DiogoROcha10" target="_blank">Diogo</a>
+Made with :heart: by <a href="https://github.com/DiogoRocha10" target="_blank">Diogo</a>
 
 &#xa0;
 
